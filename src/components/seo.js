@@ -40,8 +40,16 @@ function SEO({ description, lang, meta, title }) {
           content: metaDescription,
         },
         {
+          name: `spoiler`,
+          content: metaDescription,
+        },
+        {
           property: `og:title`,
           content: title,
+        },
+        {
+          property: `og:spoiler`,
+          content: metaSpoiler,
         },
         {
           property: `og:description`,
