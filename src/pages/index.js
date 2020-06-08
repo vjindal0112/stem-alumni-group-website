@@ -26,10 +26,12 @@ const IndexPage = () => (
     </Link>
     <h1>Mission</h1>
     <Statement>
-      <p>
+      <p style={{"margin-bottom": "10px"}}>
         The Ward Melville STEM Alumni Group was created to ease the transition
-        to college and to life beyond. Please reach out to any of us, we would
-        love to chat with you.
+        to college and to life beyond. 
+      </p>
+      <p>
+        Please reach out to any of us -- we would love to chat.
       </p>
     </Statement>
   </Layout>
