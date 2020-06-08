@@ -49,7 +49,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           property: `og:spoiler`,
-          content: metaSpoiler,
+          content: metaDescription,
         },
         {
           property: `og:description`,

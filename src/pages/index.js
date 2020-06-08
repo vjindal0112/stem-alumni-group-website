@@ -18,7 +18,9 @@ const Statement = styled.div`
 const IndexPage = () => (
   <Layout>
     <SEO title="Ward Melville STEM Alumni Group" />
-    <Logo src="./STEMAlumniLogo17.png" />
+    <Link to="/">
+      <Logo src="./STEMAlumniLogo17.png" />
+    </Link>
     <Link to="/members">
       <p>Members</p>
     </Link>
@@ -26,7 +28,8 @@ const IndexPage = () => (
     <Statement>
       <p>
         The Ward Melville STEM Alumni Group was created to ease the transition
-        to college and to life beyond. Please reach out to any of us, we would love to chat with you.
+        to college and to life beyond. Please reach out to any of us, we would
+        love to chat with you.
       </p>
     </Statement>
   </Layout>

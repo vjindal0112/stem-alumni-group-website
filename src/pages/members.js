@@ -13,7 +13,9 @@ const Logo = styled.img`
 const Members = () => (
   <Layout>
     <SEO title="Ward Melville STEM Alumni Group Members" />
-    <Logo src="./STEMAlumniLogo17.png"/>
+    <Link to="/">
+      <Logo src="./STEMAlumniLogo17.png" />
+    </Link>
     <h1>Members</h1>
     <AllMembers />
     <p><Link to="/">Back</Link></p>
