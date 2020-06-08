@@ -2,11 +2,16 @@ html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #f6f6f6;
 }
 body {
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  padding: 10px;
 }
 article,
 aside,
@@ -42,6 +47,7 @@ template {
 a {
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
+  color: #328d7c;
 }
 a:active,
 a:hover {
