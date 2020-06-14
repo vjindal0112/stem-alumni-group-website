@@ -52,6 +52,10 @@ function SEO({ description, lang, meta, title }) {
           content: metaDescription,
         },
         {
+          property: `og:image`,
+          content: "STEMAlumniLogoFinal.png",
+        },
+        {
           property: `og:description`,
           content: metaDescription,
         },
