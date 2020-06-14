@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Ward Melville STEM Alumni Group`,
-    description: `Ward Melville's STEM Alumni Group helps seniors learn about and adapt to college life and beyond.`,
+    title: `Ward Melville STEM Alumni Community`,
+    description: `Ward Melville's STEM Alumni Community helps seniors learn about and adapt to college life and beyond.`,
     author: `@vjindal0112`,
   },
   plugins: [
@@ -31,7 +31,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/STEMAlumniA.png`, // This path is relative to the root of the site.
       },
     },
     // this (optional) plugin enables Progressive Web App + Offline functionality

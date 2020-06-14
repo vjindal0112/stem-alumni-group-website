@@ -7,7 +7,7 @@ import SEO from "../components/seo"
 import styled from "styled-components"
 
 const Logo = styled.img`
-  max-height: 300px;
+  max-height: 400px;
 `
 
 const Statement = styled.div`
@@ -17,9 +17,9 @@ const Statement = styled.div`
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Ward Melville STEM Alumni Group" />
+    <SEO title="Ward Melville STEM Alumni Community" />
     <Link to="/">
-      <Logo src="./STEMAlumniLogo17.png" />
+      <Logo src="./STEMAlumniLogoFinal.png" />
     </Link>
     <Link to="/members">
       <p>Members</p>
@@ -27,7 +27,7 @@ const IndexPage = () => (
     <h1>Mission</h1>
     <Statement>
       <p style={{"margin-bottom": "10px"}}>
-        The Ward Melville STEM Alumni Group was created to ease the transition
+        The Ward Melville STEM Alumni Community was created to ease the transition
         to college and to life beyond. 
       </p>
       <p>

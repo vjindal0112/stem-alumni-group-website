@@ -14,7 +14,7 @@ const Members = () => (
   <Layout>
     <SEO title="Ward Melville STEM Alumni Group Members" />
     <Link to="/">
-      <Logo src="./STEMAlumniLogo17.png" />
+      <Logo src="./STEMAlumniLogoFinal.png" />
     </Link>
     <h1>Members</h1>
     <AllMembers />
