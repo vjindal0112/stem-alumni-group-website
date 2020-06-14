@@ -53,7 +53,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           property: `og:image`,
-          content: "./STEMAlumniLogoFinal.png",
+          content: "https://stemalumnicommunity.netlify.app/STEMAlumniLogoFinal.png",
         },
         {
           property: `og:description`,
