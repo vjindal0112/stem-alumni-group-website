@@ -17,7 +17,7 @@ const Statement = styled.div`
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Ward Melville STEM Alumni Community" />
+    <SEO title="STEM Alumni Community" />
     <Link to="/">
       <Logo src="./STEMAlumniLogoFinal.png" />
     </Link>

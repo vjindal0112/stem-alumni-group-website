@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Ward Melville STEM Alumni Community`,
-    description: `Ward Melville's STEM Alumni Community helps seniors learn about and adapt to college life and beyond.`,
+    title: `STEM Alumni Community`,
+    description: `The STEM Alumni Community helps seniors learn about and adapt to college life and beyond.`,
     author: `@vjindal0112`,
   },
   plugins: [
