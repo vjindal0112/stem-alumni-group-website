@@ -8,7 +8,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://wmstag.netlify.app`,
+        siteUrl: `https://stemalumnicommunity.netlify.app`,
       },
     },
     `gatsby-plugin-styled-components`,
